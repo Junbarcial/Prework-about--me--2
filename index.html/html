@@ -7,25 +7,19 @@
 </head>
 
 <body>
-    <!-- Site header -->
 <header>
-    <!--The h1 tag should be used for most important heading-->
+    
 <h1>Student Bio</h1>
 </header>
 
-<!-- Section 1: Bio -->
 <section>
     <h2>Jonas Barcial</h2>
-<!-- Image -->
 <img src="https://via.placeholder.com/200" alt="Jonas Barcial"/>
-<!-- Paragraph with embedded link -->
 <p> Working as a Video Engineer at TBN</p>
 </section>
 
-<!-- Section 2: Contact Info -->
 <section>
     <h2>Contact Info</h2>
-<!-- Unordered List -->
 <ul>
     <li><strong>Email:</strong> <a href="#"e_barcial@yahoo.com</a></li>
     <li><strong>Github:</stong< < href="#"samplename</a></li>
