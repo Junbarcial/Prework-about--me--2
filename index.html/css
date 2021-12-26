@@ -3,7 +3,8 @@
 }
 
  .title {
-     color:darkblue;
+     color:darkblue
+ }
 
 
 #email {
@@ -15,6 +16,4 @@ background-color:lightsteelblue;
 
 #portfolio {
     background-color: darkorange;
-}
-}
 }
